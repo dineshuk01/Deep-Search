@@ -17,3 +17,9 @@ It allows users to query large unstructured documents using natural language, re
 ✅ Environment variables for secure OpenAI key loading
 
 ✅ Dockerized Qdrant for easy setup
+
+
+
+<img width="1205" height="721" alt="Screenshot 2025-07-14 004615" src="https://github.com/user-attachments/assets/2450e690-6984-43fc-b3ad-caea69defe97" />
+
+
