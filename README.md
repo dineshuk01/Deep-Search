@@ -5,6 +5,7 @@ This project implements a Deep Semantic Search Engine that leverages OpenAI embe
 It allows users to query large unstructured documents using natural language, retrieving semantically similar results using vector search.
 
 📌 Features
+
 ✅ Chunk unstructured documents using LangChain
 
 ✅ Generate vector embeddings using OpenAI API
